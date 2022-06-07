@@ -1,0 +1,4 @@
+0 Aluminium Can
+1 PET Plastic
+2 Glass
+3 HDPE Plastic
